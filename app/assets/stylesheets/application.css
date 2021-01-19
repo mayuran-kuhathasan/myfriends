@@ -13,9 +13,3 @@
  *= require_tree .
  *= require_self
  */
-*{0 0
-}
-
-body { margin= 5px,5px
-
-}
